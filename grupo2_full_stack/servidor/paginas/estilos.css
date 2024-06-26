@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'Jersey';
-    src: url('/fuentes/Jersey_25/Jersey25-Regular.ttf');
+    src: url('./fuentes/Jersey_25/Jersey25-Regular.ttf');
 }
 @keyframes rotation {
     0%{
@@ -480,7 +480,7 @@
   
     .cabeza{
     border: 5px solid rgb(240, 241, 248);
-    background-image: url('/img/disco.jpg');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrd8eIONd4RVPwMlGKfi8dgBDfwqYfIC_WUg&s');
     background-repeat:repeat-x;
     text-align: center;
     padding: 10px;
